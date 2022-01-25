@@ -1,4 +1,4 @@
-package ggvm_util
+package lib
 
 func Fib(x int) int {
 	if x == 0 {
