@@ -1,3 +1,3 @@
-module tokinia.me/ggvm-util
+module github.com/ggvm-util
 
 go 1.17
